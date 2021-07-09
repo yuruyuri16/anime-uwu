@@ -46,6 +46,12 @@ export default {
   content: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {
+  build: {},
+  generate: {
+    fallback: true,
+    routes: [
+      '/anime/1',
+      '/anime/2',
+    ]
   }
 }
