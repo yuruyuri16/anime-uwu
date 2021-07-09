@@ -11,7 +11,7 @@ rating: 5
 #### Sinopsis:
 Akira Fudo es el típico estudiante de secundaria, pero con un problema de sentimentalismo extremo, un día recibe una llamada de su amigo Ryo Asuka, el cual le dice que necesita su ayuda para poder estudiar una antigua raza de demonios que empiezan a resurgir en la tierra y buscan dominarla por medio del exterminio de la raza humana. Ryo convence a Akira de ir a una fiesta para documentar la aparición de los demonios, pero Akira termina convirtiéndose en uno sin embargo mantiene la conciencia, el alma y corazón del chico que siempre fue.
 
-##### Temporadas:
+#### Temporadas:
 
 * DevilMan CryBaby
 

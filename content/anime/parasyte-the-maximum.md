@@ -11,7 +11,7 @@ rating: 4
 #### Sinopsis:
 Sinichi Izumi es un adolescente de diecisiete que vive en Tokio, En una fría noche unas criaturas parasitarias similares a larvas llueven del cielo, haciendo a los humanos sus huéspedes. Una vez en el organismo los parásitos reemplazan la cabeza por una copia controlada por ellos mismos, en el caso de Sinichi pudo detener el camino de su parásito y se alojo en su brazo. El parásito aprende a hablar con Sinichi y se hacen buenos amigos que se enfrentan a otros parásitos que intentan comerlo o capturarlo. Increíblemente los parásitos forman familias, aman y procrean, lo cual hace dudar a Sinichi si son simples alimañas o tienen alma.
 
-##### Temporadas:
+#### Temporadas:
 
 * Kiseijuu: Sei no Kakuritsu
 

@@ -49,9 +49,5 @@ export default {
   build: {},
   generate: {
     fallback: true,
-    routes: [
-      '/anime/1',
-      '/anime/2',
-    ]
   }
 }

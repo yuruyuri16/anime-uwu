@@ -1,10 +1,29 @@
 <template>
   <div class="container mx-auto">
-    <section class="grid grid-cols-3 gap-4 pt-12">
+    <div class="flex flex-col items-center px-4">
+      <h1 class="title">Top 10 animes para ver si estás aburrido</h1>
+    </div>
+    <section
+      class="
+        grid grid-cols-1
+        md:grid-cols-2
+        lg:grid-cols-3
+        xl:grid-cols-4
+        gap-4
+        pt-12
+        px-4
+      "
+    >
       <article
         v-for="(post, $index) in posts"
         :key="`post-${$index}`"
-        class="border-2 border-gray-300 max-w-sm rounded overflow-hidden shadow-lg flex flex-col"
+        class="
+          border-2 border-gray-300
+          rounded
+          overflow-hidden
+          shadow-lg
+          flex flex-col
+        "
       >
         <img class="object-contain h-48" :src="post.media" alt="post.title" />
         <div class="px-6 py-4 flex-2">
@@ -15,7 +34,12 @@
         </div>
         <footer class="p-4">
           <nuxt-link :to="post.path" class="font-bold text-xl mb-2">
-            <button type="button" class="font-bold py-2 px-4 rounded bg-gray-300">Ver más</button>
+            <button
+              type="button"
+              class="font-bold py-2 px-4 rounded bg-gray-300"
+            >
+              Ver más
+            </button>
           </nuxt-link>
         </footer>
       </article>
@@ -37,8 +61,8 @@ export default {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 300;
-  font-size: 100px;
+  font-weight: 500;
+  font-size: 30px;
   color: #35495e;
   letter-spacing: 1px;
 }
