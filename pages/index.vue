@@ -1,7 +1,9 @@
 <template>
   <div class="container mx-auto">
     <div class="flex flex-col items-center px-4">
-      <h1 class="title">Top 10 animes para ver si estás aburrido</h1>
+      <h1 class="title uppercase">
+        Top 10 animes para ver cuando estés aburrido
+      </h1>
     </div>
     <section
       class="
@@ -61,7 +63,7 @@ export default {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 30px;
   color: #35495e;
   letter-spacing: 1px;
