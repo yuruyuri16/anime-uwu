@@ -27,15 +27,12 @@
           flex flex-col
         "
       >
-        <img class="object-contain h-48" :src="post.media" alt="post.title" />
+        <img class="object-contain h-48" :src="post.media" :alt="post.title" />
         <div class="px-6 py-4 flex-2">
-          <h3>{{ post.title }}</h3>
-          <p class="text-gray-700 text-base">
-            {{ post.description }}
-          </p>
+          <h3 class="font-bold text-lg">{{ post.title }}</h3>
         </div>
-        <footer class="p-4">
-          <nuxt-link :to="post.path" class="font-bold text-xl mb-2">
+        <footer class="p-4 ml-auto">
+          <nuxt-link :to="post.path" class="font-bold text-lg mb-2">
             <button
               type="button"
               class="font-bold py-2 px-4 rounded bg-gray-300"
