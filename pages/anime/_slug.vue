@@ -15,7 +15,7 @@
         </div>
       </header>
       <nuxt-content class="text-gray-800" :document="post" />
-      <StarRating :rating="post.rating"></StarRating>
+      <StarRating :rating="post.rating" read-only="true"></StarRating>
     </article>
   </div>
 </template>
