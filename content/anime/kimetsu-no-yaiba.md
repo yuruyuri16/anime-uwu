@@ -13,8 +13,8 @@ En un Japón del siglo XIX vive Tanjiro Kamado, un joven de 15 años cabeza de s
 
 #### Temporadas:
 
-*Kimetsu no Yaiba season 1 
-*Kimetsu no Yaiba: Mugen Train - Película
+* Kimetsu no Yaiba season 1 
+* Kimetsu no Yaiba: Mugen Train - Película
 
 #### Reseña
 La adaptación a las pantallas de la obra de Koyoharu fue todo un éxito, no solo por la historia y universo que ofrece al espectador, sino por el gran trabajo de animación que ofrece la reconocida casa animadora Ufotable, ya reconocida por Fate Series, Ufotable nos ofrece fluidez en las peleas, una gran paleta de colores y por último los dos puntos más resaltantes, el buen uso del CGI y la grandiosa banda sonora que nos sumerge en las mentes de nuestros protagonistas. Kimetsu no Yaiba cuenta con una temporada que ganó al anime del año en el 2019 y con una exitosa película que escaló al primer puesto como película más vendida en el mundo en el año 2021, destronando al ganador del Oscar a mejor película en el 2002: El viaje de Chihiro,  la serie cuenta con más de un capítulo en los mejores 100 capítulos de la historia de la televisión en IMDb, lo cual le permitió llegar a la cartelera de Netflix en el año 2021.

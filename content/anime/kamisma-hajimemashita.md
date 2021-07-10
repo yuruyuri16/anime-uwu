@@ -9,7 +9,7 @@ rating: 5
 ---
 
 #### Sinopsis:
-Tras perderlo todo hasta su casa a causa de las deudas de su padre ludópata, Nanami va a un parque y se encuentra a un joven llamado Mikage que estaba siendo atacado por un un perro y lo salva, en agradecimiento Mikage le regala su templo y su poder de ser la diosa de la tierra, Nanami va hacia la propiedad pensando que es mentira hasta que conoce a Tomoe un zorro que era el familiar de Mikage y que no reconoce a Nanami como la nueva ama. Junto a la ayuda de Tomoe, Nanami tendrá que aprender a hacer su deber como deidad de la tierra.
+Tras perderlo todo hasta su casa a causa de las deudas de su padre ludópata, Nanami va a un parque y se encuentra a un joven llamado Mikage que estaba siendo atacado por un perro y lo salva, en agradecimiento Mikage le regala su templo y su poder de ser la diosa de la tierra, Nanami va hacia la propiedad pensando que es mentira hasta que conoce a Tomoe un zorro que era el familiar de Mikage y que no reconoce a Nanami como la nueva ama. Junto a la ayuda de Tomoe, Nanami tendrá que aprender a hacer su deber como deidad de la tierra.
 
 #### Temporadas:
 
